@@ -1,0 +1,101 @@
+id_sequencial,ordem_inversa,inteiros_aleatorios,inteiros_repetidos,nota_decimal,salario_mensal,nome_colaborador,departamento
+1,100,664,2,1.23,7863.07,Helena Rodrigues,Backend
+2,99,702,12,9.03,4195.31,Olivia Santos,Engenharia de Dados
+3,98,105,4,3.09,14239.37,Tatiana Alves,Qualidade (QA)
+4,97,235,8,6.30,18283.89,Ana Ferreira,Qualidade (QA)
+5,96,358,5,2.40,21165.65,Lucas Souza,Backend
+6,95,399,2,4.23,9207.14,Igor Santos,Produto
+7,94,559,2,9.76,9881.42,Tatiana Gomes,Inteligencia Artificial
+8,93,601,4,7.34,3393.58,Helena Gomes,Backend
+9,92,885,4,8.80,9912.46,Pedro Ribeiro,Frontend & UX
+10,91,389,6,2.89,7706.07,Beatriz Oliveira,Frontend & UX
+11,90,556,12,3.20,11514.07,Igor Pereira,Inteligencia Artificial
+12,89,873,13,7.98,6966.44,Bruno Costa,Qualidade (QA)
+13,88,284,2,2.90,20886.74,Caio Costa,Infra & Cloud
+14,87,681,8,4.56,20333.68,Pedro Rodrigues,Seguranca
+15,86,152,4,7.70,13010.06,Diana Carvalho,Qualidade (QA)
+16,85,380,4,9.98,5197.47,Rafaela Oliveira,Engenharia de Dados
+17,84,891,2,2.38,5619.65,Beatriz Carvalho,Backend
+18,83,404,7,6.36,11626.97,Igor Silva,Backend
+19,82,708,15,5.83,7703.09,Arthur Costa,Backend
+20,81,310,7,2.42,2563.28,Diana Lima,Frontend & UX
+21,80,529,15,1.96,14693.35,Arthur Alves,Frontend & UX
+22,79,392,13,2.45,21093.25,Samuel Silva,Inteligencia Artificial
+23,78,510,1,2.01,9578.12,Julia Pereira,Engenharia de Dados
+24,77,256,15,6.11,4035.76,Diana Lopes,Backend
+25,76,788,9,7.89,,Eduardo Lopes,Frontend & UX
+26,75,281,9,8.85,10751.19,Gabriel Alves,Seguranca
+27,74,418,11,6.85,11042.95,Samuel Almeida,Backend
+28,73,263,4,1.58,2910.17,Tatiana Pereira,Infra & Cloud
+29,72,17,2,7.37,3648.04,Carlos Santos,Inteligencia Artificial
+30,71,82,9,3.14,15545.07,Gabriel Rodrigues,Produto
+31,70,258,13,5.26,10437.67,Daniela Souza,Qualidade (QA)
+32,69,372,7,4.70,19344.82,Bruno Souza,Engenharia de Dados
+33,68,422,12,4.05,19302.61,Helena Alves,Infra & Cloud
+34,67,559,8,2.26,6078.02,Pedro Pereira,Backend
+35,66,463,13,8.75,13231.34,Bruno Silva,Backend
+36,65,958,13,8.64,5743.07,Rafaela Lopes,Infra & Cloud
+37,64,895,7,9.12,5710.42,Ana Martins,Seguranca
+38,63,958,13,8.07,8062.36,Caio Lopes,Frontend & UX
+39,62,204,5,2.96,3640.42,Diana Santos,Inteligencia Artificial
+40,61,68,1,6.26,12305.58,Samuel Ferreira,Engenharia de Dados
+41,60,993,9,1.72,6123.59,Yasmin Oliveira,Infra & Cloud
+42,59,423,2,9.47,13608.67,Vinicius Santos,Backend
+43,58,439,11,6.25,12694.26,Igor Alves,Inteligencia Artificial
+44,57,254,5,4.56,15597.96,Julia Almeida,Inteligencia Artificial
+45,56,961,13,9.42,2681.65,Yasmin Souza,Backend
+46,55,560,4,5.55,5082.90,Mariana Oliveira,Infra & Cloud
+47,54,388,5,2.42,18758.03,Caio Gomes,Engenharia de Dados
+48,53,693,14,5.99,20669.24,Daniela Rodrigues,Seguranca
+49,52,128,15,1.96,13287.86,Igor Gomes,Infra & Cloud
+50,51,744,6,2.83,14867.64,Igor Lopes,Seguranca
+51,50,937,15,8.61,4299.82,Olivia Lima,Engenharia de Dados
+52,49,13,6,7.94,14923.71,Igor Ferreira,Produto
+53,48,574,12,4.85,2688.56,Carlos Rodrigues,Engenharia de Dados
+54,47,864,6,6.24,5387.83,Eduardo Santos,Seguranca
+55,46,383,15,9.40,21457.83,Bruno Ribeiro,Infra & Cloud
+56,45,708,4,7.00,9396.73,Tatiana Carvalho,Frontend & UX
+57,44,957,15,3.13,5668.78,Fernanda Carvalho,Engenharia de Dados
+58,43,193,12,9.32,17756.54,Olivia Pereira,Seguranca
+59,42,173,13,7.31,9959.56,Bruno Lopes,Infra & Cloud
+60,41,214,14,9.27,,Mariana Gomes,Infra & Cloud
+61,40,238,1,6.94,10270.09,Igor Oliveira,Seguranca
+62,39,369,11,5.58,15750.60,Tatiana Costa,Engenharia de Dados
+63,38,128,15,9.73,5982.07,Igor Santos,Backend
+64,37,620,7,4.11,17835.35,Olivia Souza,Qualidade (QA)
+65,36,931,10,2.71,3365.54,Olivia Silva,Infra & Cloud
+66,35,382,7,1.63,15452.63,Lucas Costa,Backend
+67,34,747,15,3.70,8531.05,Olivia Costa,Qualidade (QA)
+68,33,723,5,5.99,6240.88,Beatriz Martins,Frontend & UX
+69,32,640,10,3.71,13184.78,Ana Gomes,Seguranca
+70,31,225,7,8.07,14329.90,Lucas Almeida,Produto
+71,30,462,11,2.92,11727.13,Diana Ferreira,Backend
+72,29,300,9,6.97,14575.59,Carlos Pereira,Seguranca
+73,28,240,13,2.79,2976.30,Helena Lopes,Backend
+74,27,476,7,8.98,13725.58,Caio Martins,Produto
+75,26,419,4,2.33,15908.64,Daniela Carvalho,Infra & Cloud
+76,25,190,13,9.62,12600.18,Bruno Pereira,Backend
+77,24,477,3,8.21,15517.77,Tatiana Costa,Produto
+78,23,637,14,7.47,12343.17,Tatiana Almeida,Frontend & UX
+79,22,771,14,5.27,7554.24,Helena Lima,Produto
+80,21,651,4,3.47,4010.93,Julia Pereira,Seguranca
+81,20,353,6,9.04,4071.26,Eduardo Pereira,Qualidade (QA)
+82,19,720,3,7.36,3752.46,Olivia Costa,Produto
+83,18,435,1,2.86,10692.80,Vinicius Silva,Qualidade (QA)
+84,17,498,1,9.48,8322.95,Nicolas Carvalho,Infra & Cloud
+85,16,509,4,3.46,,Rafaela Silva,Qualidade (QA)
+86,15,354,11,7.11,10384.18,Fernanda Almeida,Frontend & UX
+87,14,647,9,1.24,10183.39,Vinicius Silva,Backend
+88,13,668,7,2.22,11503.12,Bruno Lima,Qualidade (QA)
+89,12,345,4,5.09,9081.26,Nicolas Lima,Qualidade (QA)
+90,11,268,14,1.74,2877.97,Tatiana Santos,Inteligencia Artificial
+91,10,239,11,1.62,21167.07,Bruno Silva,Infra & Cloud
+92,9,214,14,1.18,5471.46,Eduardo Lopes,Backend
+93,8,587,4,5.19,7496.75,Mariana Ferreira,Backend
+94,7,806,14,2.47,8565.26,Vinicius Silva,Seguranca
+95,6,599,11,9.17,9818.49,Caio Alves,Backend
+96,5,616,12,8.48,7235.56,Caio Gomes,Backend
+97,4,825,10,8.04,9270.47,Olivia Ribeiro,Backend
+98,3,528,11,4.07,19066.72,Rafaela Souza,Qualidade (QA)
+99,2,993,6,6.72,18659.79,Caio Rodrigues,Qualidade (QA)
+100,1,190,12,5.70,15183.92,Yasmin Lopes,Produto
