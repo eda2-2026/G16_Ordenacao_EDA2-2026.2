@@ -9,9 +9,10 @@ Bom, o projeto foi pensado para mostrar vários algoritmos ordenação "competin
 
 ## Participantes
 
-|Aluno|Matricula|
-|Bryan|231012156|
-|Pablo|222014910|
+| Matricula | Integrante |
+|:----------:|:-------------|
+| 231012156 | Bryan | 
+| 222014910 | Pablo | 
 
 ## Requisitos
 
