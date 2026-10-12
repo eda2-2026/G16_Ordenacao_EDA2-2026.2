@@ -14,7 +14,7 @@ ProgressCallback: TypeAlias = Callable[
 
 
 class SortCancelled(Exception):
-    """Raised when a race or visualization is stopped by the user."""
+    """Exceção enviada quando o usuário decide interromper a corrida."""
 
 
 @dataclass(frozen=True)
