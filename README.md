@@ -14,6 +14,8 @@ Bom, o projeto foi pensado para mostrar vários algoritmos ordenação "competin
 | 231012156 | Bryan | 
 | 222014910 | Pablo | 
 
+[Clique para assistir o vídeo da apresentação](https://youtu.be/Zxln-mRwF0E)
+
 ## Requisitos
 
 - Python 3.10 ou superior
